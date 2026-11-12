@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: OHSU IT Support
+    url: https://ohsu.edu/it
+    about: For institutional access or account problems
+  - name: Prime8 Technical Issues
+    url: https://github.com/conradlab/TobeProjectManagment/issues/new?assignees=&labels=type%3Ablocker&template=blocker.yml
+    about: For compute server access or technical problems

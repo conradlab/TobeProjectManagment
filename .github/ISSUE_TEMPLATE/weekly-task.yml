@@ -1,0 +1,93 @@
+name: "Weekly Learning Task"
+description: "Weekly task issue (template for mentors)"
+labels: ["type:learning", "priority:high"]
+assignees: []
+
+body:
+  - type: markdown
+    attributes:
+      value: |
+        # [Week XX] Title
+        
+        **Goal:** [One-sentence learning objective]
+
+  - type: textarea
+    attributes:
+      label: Why This Matters
+      description: "Context for why this week's skills matter"
+      value: |
+        [Explanation of relevance and significance]
+
+  - type: textarea
+    attributes:
+      label: Prerequisites
+      description: "What you should know before starting"
+      value: |
+        - Prior week(s) completion
+        - Specific skills or knowledge needed
+
+  - type: markdown
+    attributes:
+      value: "## Learning Materials"
+
+  - type: textarea
+    attributes:
+      label: Resources & Guides
+      description: "Links to guides, tutorials, documentation"
+      value: |
+        - [docs/onboarding/...](...)
+        - [docs/learning/...](...)
+        - [External resource link]
+
+  - type: markdown
+    attributes:
+      value: "## Tasks"
+
+  - type: textarea
+    attributes:
+      label: Required Tasks
+      description: "Specific, actionable checklist items"
+      value: |
+        - [ ] Task 1
+        - [ ] Task 2
+        - [ ] Task 3
+
+  - type: textarea
+    attributes:
+      label: Practical Deliverable
+      description: "What should be completed/submitted"
+      value: |
+        [Description of what mentor will review]
+
+  - type: textarea
+    attributes:
+      label: Stretch Activities (Optional)
+      description: "For rapid progress or extra learning"
+      value: |
+        - Optional task 1
+        - Optional task 2
+
+  - type: markdown
+    attributes:
+      value: "## Reflection & Review"
+
+  - type: textarea
+    attributes:
+      label: Student Reflection
+      description: "Complete these at the end of the week"
+      value: |
+        1. What did I learn?
+        2. What did I find difficult?
+        3. What can I now do independently?
+        4. What questions remain?
+
+  - type: textarea
+    attributes:
+      label: Mentor Review Checklist
+      description: "For mentor to complete"
+      value: |
+        - [ ] Deliverable examined
+        - [ ] Student demonstrated understanding
+        - [ ] Feedback provided
+        - [ ] Follow-up tasks identified
+        - [ ] Week approved or carried forward
