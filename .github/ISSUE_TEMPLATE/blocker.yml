@@ -1,0 +1,66 @@
+name: "Blocker: Technical Problem or Impediment"
+description: "Report a problem blocking your progress"
+labels: ["type:blocker", "review:needed"]
+assignees: []
+
+body:
+  - type: textarea
+    id: problem
+    attributes:
+      label: What's the problem?
+      description: Clearly describe what you're trying to do and what went wrong
+      placeholder: |
+        When I try to [do X], I get [error Y]
+        Expected: [what should happen]
+        Actual: [what actually happened]
+    validations:
+      required: true
+
+  - type: textarea
+    id: context
+    attributes:
+      label: Context
+      description: Provide helpful details for debugging
+      placeholder: |
+        Week: [Week number]
+        Task: [Which task in the week]
+        System: [Mac/Linux/Windows]
+        Error message (if any):
+        ```
+        [paste exact error here]
+        ```
+    validations:
+      required: false
+
+  - type: textarea
+    id: attempted
+    attributes:
+      label: What have you already tried?
+      description: This helps mentors avoid suggesting the same thing
+      placeholder: |
+        - Tried [solution 1]
+        - Checked [resource 1]
+        - Restarted [thing]
+    validations:
+      required: false
+
+  - type: dropdown
+    id: priority
+    attributes:
+      label: How urgent is this?
+      options:
+        - "Blocking me now (can't proceed)"
+        - "Slowing me down (can work around it)"
+        - "Question/curiosity (not blocking)"
+    validations:
+      required: false
+
+  - type: checkboxes
+    id: checklist
+    attributes:
+      label: Self-check
+      options:
+        - label: I've read the relevant guide/resource
+        - label: I've tried troubleshooting for at least 30 minutes
+        - label: I've checked if this is mentioned in CONTRIBUTING.md or docs
+        - label: I'm requesting human help, not just venting
