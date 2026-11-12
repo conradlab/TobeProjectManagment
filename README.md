@@ -27,18 +27,21 @@ As a high-school research intern, you'll:
 
 ## Quick Start
 
-**First time here?** Start with these three steps:
+**First time here?** Start here:
 
-1. Read the [ROADMAP.md](ROADMAP.md) to understand the 12-week structure
-2. Open [Week 01: Institutional Onboarding](../../issues/1)
-3. Work through the checklist and leave a progress comment when you're done
+1. **Open [WEEKLY_PLANNER.md](WEEKLY_PLANNER.md)** - Find your current week
+2. **Click the Issue link** - Open this week's tasks
+3. **Work through the checklist** - Complete tasks and leave progress comments
+4. **Submit your deliverable** - Pull request or Issue comment
+5. **Wait for mentor review** - Eisa or Don will approve before next week
 
 **Each week:**
-- Open the corresponding issue (Week 02, Week 03, etc.)
+- Find your current week in [WEEKLY_PLANNER.md](WEEKLY_PLANNER.md)
+- Open the corresponding GitHub Issue
 - Complete the tasks and deliverables
-- Document what you learned
+- Document what you learned in the reflection section
 - Ask questions if anything is unclear
-- Wait for mentor review before moving to the next week
+- Request mentor review when ready
 
 ## Repository Organization
 

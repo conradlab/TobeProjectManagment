@@ -24,33 +24,33 @@ Three parallel tracks:
 
 | Week | Title | Goal | Issue |
 |------|-------|------|-------|
-| 01 | Institutional Onboarding | Access OHSU systems and communicate with mentors | [#1](../../issues/1) |
-| 02 | Linux, SSH & Remote Access | Navigate remote Linux and connect to Prime8 | [#2](../../issues/2) |
-| 03 | Python, Git & GitHub | Execute Python scripts and make first code contribution | [#3](../../issues/3) |
+| 01 | Institutional Onboarding | Access OHSU systems and communicate with mentors | [#2](../../issues/2) |
+| 02 | Linux, SSH & Remote Access | Navigate remote Linux and connect to Prime8 | [#3](../../issues/3) |
+| 03 | Python, Git & GitHub | Execute Python scripts and make first code contribution | [#4](../../issues/4) |
 
 ### Milestone 2: Scientific & ML Foundations (Weeks 4-6)
 
 | Week | Title | Goal | Issue |
 |------|-------|------|-------|
-| 04 | Machine Learning Foundations | Build conceptual and practical ML understanding | [#4](../../issues/4) |
-| 05 | Understanding SATINN | Study SATINN publications and existing architecture | [#5](../../issues/5) |
-| 06 | SATINN Reproducibility | Reproduce existing SATINN workflow and validate behavior | [#6](../../issues/6) |
+| 04 | Machine Learning Foundations | Build conceptual and practical ML understanding | [#5](../../issues/5) |
+| 05 | Understanding SATINN | Study SATINN publications and existing architecture | [#6](../../issues/6) |
+| 06 | SATINN Reproducibility | Reproduce existing SATINN workflow and validate behavior | [#7](../../issues/7) |
 
 ### Milestone 3: Python Research Development (Weeks 7-10)
 
 | Week | Title | Goal | Issue |
 |------|-------|------|-------|
-| 07 | Design Modular Architecture | Plan Python implementation before coding | [#7](../../issues/7) |
-| 08 | First Python Components | Implement small, verifiable component | [#8](../../issues/8) |
-| 09 | Model Interfaces & Baselines | Decouple pipeline from specific ML implementations | [#9](../../issues/9) |
-| 10 | Validation & Scientific Comparison | Verify Python components match reference behavior | [#10](../../issues/10) |
+| 07 | Design Modular Architecture | Plan Python implementation before coding | [#8](../../issues/8) |
+| 08 | First Python Components | Implement small, verifiable component | [#9](../../issues/9) |
+| 09 | Model Interfaces & Baselines | Decouple pipeline from specific ML implementations | [#10](../../issues/10) |
+| 10 | Validation & Scientific Comparison | Verify Python components match reference behavior | [#11](../../issues/11) |
 
 ### Milestone 4: Research Review & Next Steps (Weeks 11-12)
 
 | Week | Title | Goal | Issue |
 |------|-------|------|-------|
-| 11 | Alternative ML Approaches | Explore future SATINN research opportunities | [#11](../../issues/11) |
-| 12 | Presentation & Research Review | Consolidate learning and plan next phase | [#12](../../issues/12) |
+| 11 | Alternative ML Approaches | Explore future SATINN research opportunities | [#12](../../issues/12) |
+| 12 | Presentation & Research Review | Consolidate learning and plan next phase | [#13](../../issues/13) |
 
 ---
 
@@ -58,13 +58,13 @@ Three parallel tracks:
 
 ### SATINN Research Epic
 
-- [View SATINN Epic](../../issues/13)
+- [View SATINN Epic](../../issues/14)
 - Spans Weeks 5-12
 - Integrates understanding → reproducibility → Python development → validation
 
 ### Independent Research Epic
 
-- [View Independent Research Epic](../../issues/14)
+- [View Independent Research Epic](../../issues/15)
 - Spans Weeks 3-12
 - **Weeks 3-4:** Define research problem
 - **Weeks 5-6:** Literature review
