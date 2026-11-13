@@ -219,7 +219,7 @@ After 12 weeks, your mentors will review your progress and decide on the next ph
 
 ---
 
-**Ready to start?** Open [Week 01: Institutional Onboarding](../../issues/1) and begin!
+**Ready to start?** Open [Week 01: Institutional Onboarding](../../issues/2) and begin!
 
 For questions about this curriculum, contact **Eisa** or **Don Conrad**.
 

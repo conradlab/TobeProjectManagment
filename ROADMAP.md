@@ -95,7 +95,7 @@ See [Decision Log](docs/decision-log.md) for pending mentor decisions.
 ## How to Use This Repository
 
 1. **Start here:** Read [README.md](README.md)
-2. **Week 01:** Open [Issue #1](../../issues/1) and work through the checklist
+2. **Week 01:** Open [Issue #2](../../issues/2) and work through the checklist
 3. **Each week:** Open the corresponding Issue and follow the tasks
 4. **Blockers:** Use the [Blocker Issue Template](../.github/ISSUE_TEMPLATE/blocker.yml)
 5. **Submit work:** Create pull requests and request mentor review

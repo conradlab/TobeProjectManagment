@@ -28,18 +28,18 @@ This document provides a lightweight overview of your progress through the inter
 
 | Week | Title | Status | Issue | Notes |
 |------|-------|--------|-------|-------|
-| 01 | Institutional Onboarding | Pending | [#1](../../issues/1) | Start here |
-| 02 | Linux, SSH & Prime8 | Pending | [#2](../../issues/2) | — |
-| 03 | Python, Git & GitHub | Pending | [#3](../../issues/3) | — |
-| 04 | Machine Learning Foundations | Pending | [#4](../../issues/4) | — |
-| 05 | Understanding SATINN | Pending | [#5](../../issues/5) | — |
-| 06 | SATINN Reproducibility | Pending | [#6](../../issues/6) | — |
-| 07 | Modular Architecture Design | Pending | [#7](../../issues/7) | — |
-| 08 | First Python Components | Pending | [#8](../../issues/8) | — |
-| 09 | Model Interfaces & Baselines | Pending | [#9](../../issues/9) | — |
-| 10 | Validation & Scientific Comparison | Pending | [#10](../../issues/10) | — |
-| 11 | Alternative ML Approaches | Pending | [#11](../../issues/11) | — |
-| 12 | Research Presentation & Review | Pending | [#12](../../issues/12) | — |
+| 01 | Institutional Onboarding | Pending | [#2](../../issues/2) | Start here |
+| 02 | Linux, SSH & Prime8 | Pending | [#3](../../issues/3) | — |
+| 03 | Python, Git & GitHub | Pending | [#4](../../issues/4) | — |
+| 04 | Machine Learning Foundations | Pending | [#5](../../issues/5) | — |
+| 05 | Understanding SATINN | Pending | [#6](../../issues/6) | — |
+| 06 | SATINN Reproducibility | Pending | [#7](../../issues/7) | — |
+| 07 | Modular Architecture Design | Pending | [#8](../../issues/8) | — |
+| 08 | First Python Components | Pending | [#9](../../issues/9) | — |
+| 09 | Model Interfaces & Baselines | Pending | [#10](../../issues/10) | — |
+| 10 | Validation & Scientific Comparison | Pending | [#11](../../issues/11) | — |
+| 11 | Alternative ML Approaches | Pending | [#12](../../issues/12) | — |
+| 12 | Research Presentation & Review | Pending | [#13](../../issues/13) | — |
 
 **Legend:** ⏳ In Progress | ✅ Completed | 🔄 Under Review | ❌ Blocked | ⏭️ Ready
 

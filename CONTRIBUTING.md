@@ -266,5 +266,5 @@ Feedback helps make this better for future interns.
 ✅ Wait for mentor approval before moving forward  
 ✅ Respect shared resources  
 
-Ready to start? Open [Week 01](../../issues/1)!
+Ready to start? Open [Week 01](../../issues/2)!
 

@@ -84,7 +84,7 @@ This `docs/` folder contains detailed guides for each skill:
 
 Work is organized in GitHub Issues. Each week has an Issue:
 
-- Week 01: [Institutional Onboarding](../../issues/1)
+- Week 01: [Institutional Onboarding](../../issues/2)
 - Week 02: [Linux, SSH & Prime8](../../issues/2)
 - Week 03: [Python, Git & GitHub](../../issues/3)
 - ... and so on
@@ -99,7 +99,7 @@ Goal: Verify you can access OHSU systems and communicate with your team.
 
 **How to start:**
 
-1. Click [Week 01: Institutional Onboarding](../../issues/1)
+1. Click [Week 01: Institutional Onboarding](../../issues/2)
 2. Read through the checklist carefully
 3. Complete each task:
    - Verify OHSU account login
@@ -183,9 +183,9 @@ Stick to this workflow and you'll make steady progress.
 ## Next Steps
 
 1. **Right now:** Read the [README.md](../README.md) fully
-2. **Then:** Open [Week 01 Issue](../../issues/1)
+2. **Then:** Open [Week 01 Issue](../../issues/2)
 3. **This week:** Complete all Week 01 tasks
 4. **By end of week:** Have your mentors review and approve
 
-Ready? [Start Week 01 →](../../issues/1)
+Ready? [Start Week 01 →](../../issues/2)
 
